@@ -9,4 +9,4 @@ Testing Poll SCM mechanism
 
 Poll SCM works!
 
-Poll SCM should work again!!
+Testing Poll SCM
