@@ -5,8 +5,4 @@ Time tracker
 
 Hello Students !!! Very Good Evening!!! welcome to jenkins Dashboard
 
-Testing Poll SCM mechanism
-
-Poll SCM works!
-
-Testing Poll SCM
+Testing Poll SCM work flow
